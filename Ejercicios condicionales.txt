@@ -1,4 +1,4 @@
-﻿1. Ejercicio que determine si una persona es mayor de edad
+﻿1. Ejercicio que determine si una persona es mayor de eda
 
 2. Determinar si un estudiante aprueba o reprueba el curso con base en su nota definitiva,
 teniendo en cuenta que la nota mínima aprobatoria es de 3.5
