@@ -1,0 +1,37 @@
+﻿1. Ejercicio que determine si una persona es mayor de edad
+
+2. Determinar si un estudiante aprueba o reprueba el curso con base en su nota definitiva,
+teniendo en cuenta que la nota mínima aprobatoria es de 3.5
+
+3. Con base en la percepción del clima, generar un algoritmo que advierta a los usuarios si
+deben o no utilizar paraguas.
+
+4. Dados dos números diferentes cualesquiera determinar cuál de ellos es el mayor.
+
+5. El costo de un pasaje de bus es de 2200 pesos, dada la cantidad de dinero con que cuento
+en el bolsillo, determinar si puedo o no tomar el bus.- (NO ES PERMITIDO DECIRLE AL
+CONDUCTOR ‘SOLO TENGO ESTO’).
+
+
+6. Una empresa quiere comprar varias piezas de la misma clase a una fábrica de refacciones. 
+La empresa, dependiendo del monto total de la compra, decidirá qué hacer para pagar al fabricante: 
+- Si el monto total de la compra excede de $500.000 la empresa tendrá la capacidad de invertir de su propio dinero 
+un 55% del monto de la compra, pedir prestado al banco un 30% y el resto lo pagará solicitando un crédito al 
+fabricante. 
+- Si el monto total de la compra no excede de $500 000 la empresa tendrá capacidad de invertir de su propio dinero 
+un 70% y el restante 30% lo pagará solicitando crédito al fabricante. 
+El fabricante cobra por concepto de intereses un 20% sobre la cantidad que se le pague a crédito.
+
+7. Se desea agregar una letra para representar la calificación de los alumnos, las
+calificaciones son notas entre 1 y 10; use los siguientes parámetros: A para calificaciones
+mayores o iguales a 9, B para calificaciones mayores o iguales a 8, C para calificaciones
+mayores o iguales a 7, D para calificaciones mayores o iguales a 6, F para todas las demás
+calificaciones.
+
+8. Con base al valor de dos números enteros, determine si estos son:
+A. Iguales.
+B. No iguales.
+C. El primero es mayor que el segundo.
+D. El segundo es mayor que el primero.
+E. El primero es mayor o igual que el segundo.
+F. El segundo es mayor o igual que el primero
